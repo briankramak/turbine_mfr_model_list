@@ -8,6 +8,8 @@ The repository is organized into several sections with folders dedicated to area
 
 This section has a series of notebooks explaining primary features and manipulation of data using polars for datasets that will fit into memory. While almost all the code examples herein are simplified and overly verbose on comments, this section really does start, at the beginning, explaining about environments and showing how to deal with them.
 
+#### Environment management
+
 Environment management on teams that are only loosely coordinated is even harder, so we've included example notebook formats to deal with environments that might be used in different organizations that share work or even the same organization. We'll demonstrate this concept through all notebooks in this repository.
 
 ### A starting point

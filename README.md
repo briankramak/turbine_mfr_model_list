@@ -37,4 +37,18 @@ The purpose of the list is to serve as a high level grouping, with additional co
 
 ### Reference data
 
+A significant portion of this repository is dedicated to practical examples. In this section we start with code to download ERA5 data from CDS for the Kelmarsh wind farm. This site, along with a few others, are used throughout the analytics portion, so we've started here, with getting an imporant supplemental dataset.
+
+
+
+### Analytics
+
+Step by step examples will be provided for all major steps associated with cleaning and classifying turbine operational data from both performance and health perspectives
+
+
+
+### Process
+
+With multiple examples in the sections above, we will next delve into process management. The goal of of the program features outlined above is to allow new methods to be created and refined, but a notebook is a temporary stepping stone and we'll cross the bridge of reaching a mature process and what to do next, providing examples of automated pipelines.
+
 

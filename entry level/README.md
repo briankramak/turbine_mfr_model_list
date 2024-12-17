@@ -20,6 +20,7 @@ Minconda:  https://docs.anaconda.com/miniconda/
 
 There are dozens or hundreds of youtube videos on all three of these topics.  When you're ready, jump back into this folder and we'll step through hte basics of environments and explain how this site is different from others.  We spend a lot of time experimenting, and understanding how to install, fix, or delete environments and start over is really important.
 
+while you are figuring out vs code, make sure you understand extensions, as we'll be installing several.
 
 
 

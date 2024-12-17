@@ -12,7 +12,7 @@ Environment management on teams that are only loosely coordinated is even harder
 
 ### A starting point
 
-Where most operational teams have access to data streams from SQL Servers or PI historians or similar data stores, the typical consultant (or student/researcher) is given or assembles data from different sources.  In an effort to save time, they start with the data in its most raw state and jump right in.  We propose first establishing a common starting point using sqlite as a data container to store and organize our datasets prior to starting. These have the benefit of keeping related data, like the different series mentioned above, organized and in a single file.  With SQLite built into python, we really don't have an excuse to be better organized.
+Where most operational teams have access to data streams from SQL Servers or PI historians or similar data stores, the typical consultant (or student/researcher) is given or assembles data from different sources.  In an effort to save time, they start with the data in its most raw state and jump right in.  We propose first establishing a common starting point using sqlite as a data container to store and organize our datasets prior to starting. These have the benefit of keeping related data, like the different series mentioned above, organized and in a single file.  With SQLite built into python, we really don't have an excuse to not be better organized.
 
 ### Creating taxonomies that work 
 

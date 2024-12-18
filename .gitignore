@@ -2,3 +2,5 @@
 data/
 reference data/output
 reference data/era5_data
+reference data/era5_netcdf_files
+

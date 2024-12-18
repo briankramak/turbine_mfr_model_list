@@ -3,4 +3,6 @@ data/
 reference data/output
 reference data/era5_data
 reference data/era5_netcdf_files
+kaggle/predict-the-wind-speed-at-a-wind-turbine/02_raw_input
+kaggle/predict-the-wind-speed-at-a-wind-turbine/03_data
 
